@@ -1,4 +1,4 @@
-# Fitting Poisson  distribution
+# EXP-2 Fitting Poisson  distribution
 # Developed by: Kailash Kumar S
 # Register number: 212223220041
 # Aim : 
